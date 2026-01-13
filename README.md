@@ -1,2 +1,8 @@
 # CRUD
-Initial CRUD Student Management App
+
+
+##  Setup Instructions
+
+### Prerequisites
+- Node.js installed
+- npm installed
